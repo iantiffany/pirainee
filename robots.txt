@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xohceorai.pernate.cz/sitemap.xml
